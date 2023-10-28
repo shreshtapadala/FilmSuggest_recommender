@@ -14,6 +14,8 @@ product recommendations (Amazon) and content recommendations (Youtube, Netflix)
 
 Basically there are three types of recommender systems :
 
-content-based filtering : which generates predictions by analyzing items and searching for similarities between them
-Collaborative filtering : which generates predictions by analyzing user behavior and matching users with similar tastes
+content-based filtering : which generates predictions by analyzing items and searching for similarities between them.
+
+Collaborative filtering : which generates predictions by analyzing user behavior and matching users with similar tastes.
+
 hybrid filtering : which combines two or more models.
